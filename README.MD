@@ -1,7 +1,7 @@
 
 # A collection of the newest Claude Code open source
 
-> Source archive of Claude Code and a clean-room Python rewrite research repository
+> Source archive of Claude Code and different versions of the clean-room Python rewrite research repository
 
 ## 🔥🔥🔥 News (Pacific Time)
 - 12:20 PM · Apr 02, 2026: [Nano Claude Code v3.0: Multi-agent packages, memory package, skill package with built-in skills, argument substitution, fork/inline execution, AI memory search, git worktree isolation, agent type definitions (~5000 Lines)](https://github.com/SafeRL-Lab/nano-claude-code)
